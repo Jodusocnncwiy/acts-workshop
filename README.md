@@ -59,13 +59,6 @@
 - 使用 Tailwind CSS（CDN）與 Google Fonts，開啟時需要網路連線。
 - 瀏覽器主控台可能出現 Tailwind CDN「不建議用於正式環境」的提示，不影響使用。
 
-## 部署到 GitHub Pages
-
-1. 將 `index.html` 與 `README.md` 上傳到 repository 根目錄。
-2. 進入 **Settings → Pages**。
-3. 在 **Build and deployment** 的 Source 選擇 **Deploy from a branch**，Branch 選 `main`、資料夾選 `/ (root)`，按 **Save**。
-4. 約一兩分鐘後，即可透過上方網址開啟。
-
 ## 參考文獻
 
 Gummerus, J., Mickelsson, J., Trischler, J., Härkönen, T., & Grönroos, C. (2021). ActS – Service design based on human activity sets. *Journal of Service Management, 32*(6), 28–54. https://doi.org/10.1108/JOSM-09-2019-0275
