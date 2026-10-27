@@ -6,7 +6,7 @@
 
 ## 線上使用
 
-👉 **https://jodus65.github.io/acts-workshop/**
+👉 **https://jodusocnncwiy.github.io/acts-workshop/**
 
 不需要安裝或註冊，用電腦或平板的瀏覽器開啟即可。
 
